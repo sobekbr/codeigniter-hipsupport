@@ -1,6 +1,6 @@
 # HipSupport 
 
-HipSupport is a CodeIgniter library that facilitates the creation of a live chat support system ontop of HipChat's API. If you are already using CodeIgniter and HipChat, then you can have a fully functional live chat system up and running in minutes.
+HipSupport is a CodeIgniter library that facilitates the creation of a live chat support system ontop of HipChat's API. If you are already using CodeIgniter and HipChat, then you can have a fully functional live chat system up and running in minutes. [Try a live demo!](http://www.bradestey.com/projects/hipsupport/demo)
 
 - [How it Works](#how-it-works)
 - [Requirements](#requirements)
